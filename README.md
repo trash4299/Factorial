@@ -1,3 +1,3 @@
 # Factorial
 
-Quickly determines the factorial of a number.
+Quickly determines the factorial of a number using recursion.
